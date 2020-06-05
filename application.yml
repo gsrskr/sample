@@ -5,7 +5,7 @@ my:
      
 
 db:
-  connection: connection string here from config-server
+  connection: connection string here from config-server rajasekhar
   host: 127.0.0.1
   port: 1020
   Values: {sample:"raj"}
