@@ -1,7 +1,7 @@
 my:
   greeting: HelloWorld from COnfig Server
   list:
-    values: One,Two,Three,Rajasekhar
+    values: One,Two,Three,Rajasekhar,Sir
      
 
 db:
